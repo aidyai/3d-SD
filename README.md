@@ -12,7 +12,9 @@ This is the fine-tuned Stable Diffusion model trained on screenshots from a popu
 Use the tokens **_3d illustration style_** in your prompts for the effect.
 
 **Characters rendered with the model:**
-![Videogame Samples](https://github.com/aidyai/stable-diffusion-illustration3d/blob/main/data/gug.png)
+<p align="center">
+   <img alt="Output 1" src="[https://github.com/aidyai/stable-diffusion-illustration3d/blob/main/data/gug.png)" width="50%"/>
+</p>
 
 
 
