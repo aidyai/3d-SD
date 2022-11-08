@@ -12,11 +12,7 @@ This is the fine-tuned Stable Diffusion model trained on screenshots from a popu
 Use the tokens **_3d illustration style_** in your prompts for the effect.
 
 **Characters rendered with the model:**
-![Videogame Samples](https://huggingface.co/nitrosocke/classic-anim-diffusion/resolve/main/clanim-samples-01s.jpg)
-**Animals rendered with the model:**
-![Animal Samples](https://huggingface.co/nitrosocke/classic-anim-diffusion/resolve/main/clanim-samples-02s.jpg)
-**Cars and Landscapes rendered with the model:**
-![Misc. Samples](https://huggingface.co/nitrosocke/classic-anim-diffusion/resolve/main/clanim-samples-03s.jpg)
+![Videogame Samples](https://github.com/aidyai/stable-diffusion-illustration3d/blob/main/data/gug.png)
 
 
 
