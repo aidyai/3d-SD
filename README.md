@@ -1,17 +1,23 @@
-# stable-diffusion-illustration3d
-Finetuning Stable Diffusion with Dreambooth to create 3D Illustration useful for designers
 
-## THE FINETUNED MODEL IS AVALIBLE ON HUGGINGFACE: <a href="https://huggingface.co/aidystark/3Dillustration-stable-diffusion" target="_top">HUGGINGFACE FINETUNED MODEL</a>
+### THE FINETUNED MODEL IS AVALIBLE ON HUGGINGFACE: <a href="https://huggingface.co/aidystark/3Dillustration-stable-diffusion" target="_top">HUGGINGFACE FINETUNED MODEL</a>
+---
+license: creativeml-openrail-m
+tags:
+- stable-diffusion
+- text-to-image
+---
+### 3d illustration style
 
-### EXAMPLE GENERATIONS INCLUDE:
-#### IT SHOULD BE NOTED THAT I DIDN'T GET QUALITY RESULTS BECAUSE MY PROMPTS WHERE VERY BASIC AND IT WAS FORMATED LIKE SO..
+This is the fine-tuned Stable Diffusion model trained on screenshots from a popular animation studio.
+Use the tokens **_3d illustration style_** in your prompts for the effect.
 
-##### prompt = "3d illustration style rendering of anthony joshua 3d illustration style"
-<p align="left">
-   <img alt="Output 1" src="data/ycyxg.png" width="50%"/>
-</p>
+**Characters rendered with the model:**
+![Videogame Samples](https://huggingface.co/nitrosocke/classic-anim-diffusion/resolve/main/clanim-samples-01s.jpg)
+**Animals rendered with the model:**
+![Animal Samples](https://huggingface.co/nitrosocke/classic-anim-diffusion/resolve/main/clanim-samples-02s.jpg)
+**Cars and Landscapes rendered with the model:**
+![Misc. Samples](https://huggingface.co/nitrosocke/classic-anim-diffusion/resolve/main/clanim-samples-03s.jpg)
 
-##### prompt = "3d illustration style human face with with gold curly hair 3d illustration style"
-<p align="left">
-   <img alt="Output 1" src="data/3d.png" width="50%"/>
-</p>
+
+
+
