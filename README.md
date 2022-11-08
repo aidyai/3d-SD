@@ -13,7 +13,28 @@ Use the tokens **_3d illustration style_** in your prompts for the effect.
 
 **Characters rendered with the model:**
 <p align="center">
-   <img alt="Output 1" src="/data/gug.png" width="65%"/>
+   <img alt="Output 1" src="/data/3d.png" width="65%"/>
+</p>
+<p align="center">
+   <img alt="Output 1" src="/data/cyxg.png" width="65%"/>
+</p>
+<p align="center">
+   <img alt="Output 1" src="/data/ycyxg.png" width="65%"/>
+</p>
+<p align="center">
+   <img alt="Output 1" src="/data/taylor.png" width="65%"/>
+</p>
+<p align="center">
+   <img alt="Output 1" src="/data/yxg.png" width="65%"/>
+</p>
+<p align="center">
+   <img alt="Output 1" src="/data/cugx.png" width="65%"/>
+</p><p align="center">
+   <img alt="Output 1" src="/data/xtgug.png" width="65%"/>
+</p><p align="center">
+   <img alt="Output 1" src="/data/xug.png" width="65%"/>
+</p><p align="center">
+   <img alt="Output 1" src="/data/cugxt.png" width="65%"/>
 </p>
 
 
